@@ -1,7 +1,8 @@
 # Site para Portfolio Pessoal!
  Site Desenvolvido para Portfolio Pessoal e Apresentação do mesmo no Mundo da progração!
- Linguagens usadas: HTML + CSS + JS.
- 
+
+ **Linguagens usadas:** HTML + CSS + JS.
+
  **Script para Mudança de Cor do site.**
 
  **Demonstração:**
